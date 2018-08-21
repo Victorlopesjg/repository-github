@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="5dp">
+
+    <TextView
+        android:id="@+id/txtRepo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cassandra"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/txtLanguage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:text="Java"
+        android:textSize="15dp" />
+
+</LinearLayout>

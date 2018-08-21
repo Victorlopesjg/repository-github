@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RepositorioGit</string>
+    <string name="key_intent_repository">key_intent_repository</string>
+</resources>
